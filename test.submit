@@ -1,0 +1,5 @@
+executable = test.py
+universe = vanilla
+log = test.log
+output = test.output
+Queue
