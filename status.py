@@ -9,6 +9,7 @@ def status():
     out,err = p.communicate()
     jString = json.dumps({"status": out})
     j = json.loads(jString)
-    print (j)
+    print(jString)
+
     #return j
 status()

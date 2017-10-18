@@ -5,5 +5,6 @@ def log(log):
     jString = json.dumps({"output": file_r})
     j = json.loads(jString)
     print (j)
+    
 
 log("/home/fabian/Downloads/tesis/grid-middleware/test.log")

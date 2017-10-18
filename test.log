@@ -1,13 +1,13 @@
-000 (005.000.000) 10/15 20:57:10 Job submitted from host: <192.168.0.20:59070>
+000 (019.000.000) 10/16 18:36:30 Job submitted from host: <192.168.0.20:50065>
 ...
-001 (005.000.000) 10/15 20:57:27 Job executing on host: <192.168.0.20:57278>
+001 (019.000.000) 10/16 18:36:44 Job executing on host: <192.168.0.20:43478>
 ...
-007 (005.000.000) 10/15 20:57:27 Shadow exception!
+007 (019.000.000) 10/16 18:36:44 Shadow exception!
 	Error from fabian-VirtualBox: Failed to execute '/home/fabian/Downloads/tesis/grid-middleware/test.py': (errno=13: 'Permission denied')
 	0  -  Run Bytes Sent By Job
 	0  -  Run Bytes Received By Job
 ...
-012 (005.000.000) 10/15 20:57:27 Job was held.
+012 (019.000.000) 10/16 18:36:44 Job was held.
 	Error from fabian-VirtualBox: Failed to execute '/home/fabian/Downloads/tesis/grid-middleware/test.py': (errno=13: 'Permission denied')
 	Code 6 Subcode 13
 ...
