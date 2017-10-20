@@ -1,0 +1,5 @@
+executable = /home/fabian/Downloads/tesis/grid-middleware/test.py
+universe = vanilla
+log = /home/fabian/Downloads/tesis/grid-middleware/test.log
+output = /home/fabian/Downloads/tesis/grid-middleware/test.output
+Queue
