@@ -1,0 +1,12 @@
+from wms import Wms
+
+class Htcondor:
+
+    def status():
+        interface = Wms()
+        return interface.version()
+
+
+obj = Htcondor()
+
+obj.status()
